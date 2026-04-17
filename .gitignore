@@ -1,0 +1,22 @@
+# Next.js
+.next/
+out/
+build/
+
+# Node
+node_modules/
+
+# Misc
+.DS_Store
+*.log
+.env
+.env.local
+.env.production
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+.vercel
+.claude/settings.local.json
+nextapp/
+/ai-responses.json
+/products.json
+/reviews.json

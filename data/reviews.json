@@ -1,0 +1,225 @@
+{
+  "p08": [
+    {
+      "rating": 5,
+      "author_ko": "민지",
+      "author_en": "Minji",
+      "date": "2025-03-14",
+      "verified": true,
+      "text_ko": "런던에서 이 정도 두께의 삼겹살 만나기 어려워요. 한국 정육점 수준. 토요일마다 장 봅니다.",
+      "text_en": "You don't find samgyeopsal this thickness in London. Kitchen-grade. I order every Saturday now."
+    },
+    {
+      "rating": 5,
+      "author_ko": "Sarah K.",
+      "author_en": "Sarah K.",
+      "date": "2025-03-08",
+      "verified": true,
+      "text_ko": "남편이 영국인인데 한국 삼겹살 처음 먹어보고 계속 시켜달라고 해요. 고기질 진짜 좋아요.",
+      "text_en": "My British husband tried it once and now he's the one asking to reorder. Quality is exactly what I miss from home."
+    },
+    {
+      "rating": 4,
+      "author_ko": "JH.L",
+      "author_en": "JH.L",
+      "date": "2025-02-28",
+      "verified": true,
+      "text_ko": "맛은 완벽. 포장이 조금 더 진공이었으면 좋겠어요.",
+      "text_en": "Taste is perfect. Would love if the vacuum seal was a bit tighter."
+    }
+  ],
+  "p13": [
+    {
+      "rating": 5,
+      "author_ko": "지영",
+      "author_en": "Jiyoung",
+      "date": "2025-03-20",
+      "verified": true,
+      "text_ko": "진짜 한국 김치 맛. 슈퍼마켓에서 파는 거랑은 차원이 달라요. 숙성 정도가 딱 제 취향.",
+      "text_en": "This tastes like actual Korean kimchi, not supermarket kimchi. The fermentation level is exactly where I like it."
+    },
+    {
+      "rating": 5,
+      "author_ko": "현수",
+      "author_en": "Hyunsu",
+      "date": "2025-03-12",
+      "verified": true,
+      "text_ko": "김치찌개 끓였을 때 국물 맛이 바로 나와요. 런던에서 이런 김치 만나기 정말 힘들었어요.",
+      "text_en": "Made kimchi jjigae with it and the broth hit immediately. Impossible to find kimchi like this in London until now."
+    },
+    {
+      "rating": 5,
+      "author_ko": "Claire",
+      "author_en": "Claire",
+      "date": "2025-03-05",
+      "verified": true,
+      "text_ko": "엄마 김치 생각나는 맛. 아삭함도 살아있고 감칠맛도 깊어요. 재주문 필수.",
+      "text_en": "Tastes like my mom's. The crunch survives, the depth is there. Reordering for sure."
+    },
+    {
+      "rating": 4,
+      "author_ko": "Tom H.",
+      "author_en": "Tom H.",
+      "date": "2025-02-22",
+      "verified": true,
+      "text_ko": "영국 친구에게 처음 만들어준 한식이 이 김치 쓴 찌개였는데 대박났어요.",
+      "text_en": "First Korean food I made for my British friends used this kimchi. Big hit."
+    }
+  ],
+  "p15": [
+    {
+      "rating": 5,
+      "author_ko": "수진",
+      "author_en": "Sujin",
+      "date": "2025-03-18",
+      "verified": true,
+      "text_ko": "반찬 만들 시간 없는데 매주 이 세트 시켜요. 멸치볶음 특히 맛있어요. 엄마 반찬 생각남.",
+      "text_en": "No time to make banchan and this set is the answer. The anchovy one especially, tastes like my mom's."
+    },
+    {
+      "rating": 5,
+      "author_ko": "영민",
+      "author_en": "Young-min",
+      "date": "2025-03-10",
+      "verified": true,
+      "text_ko": "학생이라 반찬 따로 사 먹기 부담됐는데 3종 세트 양도 딱 좋고 가격도 합리적이에요.",
+      "text_en": "As a student, buying banchan one by one got expensive. Three-set portion is right and the price works."
+    },
+    {
+      "rating": 5,
+      "author_ko": "Jin & David",
+      "author_en": "Jin & David",
+      "date": "2025-02-26",
+      "verified": true,
+      "text_ko": "정말 한국 반찬가게에서 산 것 같은 맛. 남편이 시금치나물 좋아해서 매주 시킵니다.",
+      "text_en": "Tastes like a Korean banchan shop in Seoul. Husband loves the spinach, ordering weekly now."
+    }
+  ],
+  "p16": [
+    {
+      "rating": 5,
+      "author_ko": "Hyejin",
+      "author_en": "Hyejin",
+      "date": "2025-03-15",
+      "verified": true,
+      "text_ko": "국물 진하기가 진짜 한국 설렁탕집 수준. 추운 날 완전 구원. 깍두기 꼭 같이 사세요.",
+      "text_en": "Broth depth is actual Korean seolleongtang restaurant level. Lifesaver on cold days. Buy with the kkakdugi."
+    },
+    {
+      "rating": 5,
+      "author_ko": "Minho",
+      "author_en": "Minho",
+      "date": "2025-03-02",
+      "verified": true,
+      "text_ko": "48시간 우렸다는 게 거짓말이 아닌 것 같아요. 런던 한식당보다 나은 것 같음.",
+      "text_en": "They really did simmer it 48 hours. Better than most Korean restaurants in London honestly."
+    },
+    {
+      "rating": 4,
+      "author_ko": "Anna W.",
+      "author_en": "Anna W.",
+      "date": "2025-02-20",
+      "verified": true,
+      "text_ko": "양이 조금 더 많았으면 좋겠어요. 맛은 완벽.",
+      "text_en": "Portion could be bigger. Taste is spot on though."
+    }
+  ],
+  "p09": [
+    {
+      "rating": 5,
+      "author_ko": "수현",
+      "author_en": "Suhyun",
+      "date": "2025-03-19",
+      "verified": true,
+      "text_ko": "친구들 초대할 때마다 이거 시켜요. 양념이 진짜 한국 맛이고 구우면 끝. 실패 없음.",
+      "text_en": "Go-to when friends come over. Marinade is proper Korean, just grill and done. Never fails."
+    },
+    {
+      "rating": 5,
+      "author_ko": "James",
+      "author_en": "James",
+      "date": "2025-03-07",
+      "verified": true,
+      "text_ko": "아내가 한국인인데 이 양념이 제일 비슷하대요. 여러 브랜드 시도해봤는데 여기가 최고.",
+      "text_en": "My wife is Korean and she says the marinade is closest to real. We tried several brands, this wins."
+    },
+    {
+      "rating": 5,
+      "author_ko": "Eunha",
+      "author_en": "Eunha",
+      "date": "2025-02-25",
+      "verified": true,
+      "text_ko": "생일 저녁으로 이거 LA갈비 구워 먹었어요. 분위기 완전 한국.",
+      "text_en": "Birthday dinner with this and the vibe was instantly Korean. Perfect."
+    }
+  ],
+  "p17": [
+    {
+      "rating": 5,
+      "author_ko": "지은",
+      "author_en": "Jieun",
+      "date": "2025-03-17",
+      "verified": true,
+      "text_ko": "아이들이 너무 좋아해요. 수제라서 그런지 식감이 다르고 양념도 딱 좋음.",
+      "text_en": "Kids devour these. You can tell they're handmade, texture is different and the seasoning is just right."
+    },
+    {
+      "rating": 4,
+      "author_ko": "Yoona",
+      "author_en": "Yoona",
+      "date": "2025-03-06",
+      "verified": true,
+      "text_ko": "떡갈비 좋아하는데 런던에서는 처음 먹어봐요. 기대 이상.",
+      "text_en": "Love tteokgalbi and this is the first one I've had in London. Exceeded expectations."
+    },
+    {
+      "rating": 5,
+      "author_ko": "Dan P.",
+      "author_en": "Dan P.",
+      "date": "2025-02-19",
+      "verified": true,
+      "text_ko": "한식 처음 시도하는 분께 추천. 팬에 굽기만 하면 되는데 맛은 진짜 훌륭.",
+      "text_en": "Recommend for anyone new to Korean food. Just pan-fry and the taste is genuinely excellent."
+    }
+  ],
+  "p14": [
+    {
+      "rating": 5,
+      "author_ko": "민재",
+      "author_en": "Minjae",
+      "date": "2025-03-16",
+      "verified": true,
+      "text_ko": "국밥집 깍두기 맛 그대로. 설렁탕 밀키트랑 세트로 시키면 완벽해요.",
+      "text_en": "Kkakdugi like the ones at Korean soup shops. Ordering with the seolleongtang kit completes it."
+    },
+    {
+      "rating": 5,
+      "author_ko": "Seoyeon",
+      "author_en": "Seoyeon",
+      "date": "2025-03-04",
+      "verified": true,
+      "text_ko": "무의 단맛이 살아있고 아삭함도 좋아요. 혼자 밥 먹을 때 이것만 있어도 한 끼.",
+      "text_en": "Radish sweetness survives, still crunchy. With rice alone it's already a meal."
+    }
+  ],
+  "p06": [
+    {
+      "rating": 5,
+      "author_ko": "하은",
+      "author_en": "Haeun",
+      "date": "2025-03-13",
+      "verified": true,
+      "text_ko": "10분이면 진짜 포장마차 맛. 모짜렐라 올려서 로제 떡볶이로도 변신 가능.",
+      "text_en": "Ten minutes and it's proper street food taste. Add mozzarella for rosé tteokbokki version."
+    },
+    {
+      "rating": 4,
+      "author_ko": "Yuna",
+      "author_en": "Yuna",
+      "date": "2025-02-28",
+      "verified": true,
+      "text_ko": "떡 양이 많고 소스가 진해요. 김밥이랑 같이 시키는 거 강추.",
+      "text_en": "Lots of rice cakes, rich sauce. Absolutely get the kimbap with it."
+    }
+  ]
+}
