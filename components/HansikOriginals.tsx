@@ -120,10 +120,10 @@ export function HansikOriginals({ products, reviews }: HansikOriginalsProps) {
                 {/* Card body */}
                 <div className="flex flex-col gap-1.5 p-4 flex-1">
                   <p className="text-sm font-semibold" style={{ color: '#2B2B2B' }}>
-                    {product.name_ko}
+                    {locale === 'ko' ? product.name_ko : product.name_en}
                   </p>
                   <p className="text-xs" style={{ color: '#6B6B6B' }}>
-                    {product.name_en}
+                    {locale === 'ko' ? product.name_en : product.name_ko}
                   </p>
 
                   {/* Story snippet */}

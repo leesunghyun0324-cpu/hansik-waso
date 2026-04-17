@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import Image from 'next/image'
 import { ShoppingBag, Check } from 'lucide-react'
 import { t } from '@/lib/i18n'
 import { useLocaleContext } from '@/lib/locale-context'
@@ -13,6 +14,7 @@ interface MealDay {
   meal_ko: string
   meal_en: string
   items: string[]
+  image?: string
 }
 
 interface MealPlanData {
@@ -114,9 +116,22 @@ export function MealPlan({ plans, products }: MealPlanProps) {
               return (
                 <div
                   key={i}
-                  className="rounded-xl p-4"
+                  className="rounded-xl overflow-hidden"
                   style={{ backgroundColor: '#FBF7F1' }}
                 >
+                  {/* Day image */}
+                  {day.image && (
+                    <div className="relative w-full h-36 md:h-40 overflow-hidden">
+                      <Image
+                        src={day.image}
+                        alt={locale === 'ko' ? day.meal_ko : day.meal_en}
+                        fill
+                        className="object-cover"
+                        unoptimized
+                      />
+                    </div>
+                  )}
+                  <div className="p-4">
                   {/* Day label */}
                   <p
                     className="text-[11px] font-semibold uppercase tracking-wide mb-1"
@@ -142,6 +157,7 @@ export function MealPlan({ plans, products }: MealPlanProps) {
                         {locale === 'ko' ? product.name_ko : product.name_en}
                       </span>
                     ))}
+                  </div>
                   </div>
                 </div>
               )

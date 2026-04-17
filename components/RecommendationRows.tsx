@@ -174,27 +174,6 @@ export function RecommendationRows({ productId, basePrice }: RecommendationRowsP
 
   return (
     <div className="flex flex-col gap-0">
-      {/* AOV uplift indicator */}
-      {allLoaded && topItems.length > 0 && (
-        <div
-          className="rounded-xl px-4 py-3 mb-4"
-          style={{ backgroundColor: 'rgba(30,77,58,0.06)' }}
-        >
-          <p className="text-xs font-medium" style={{ color: '#1E4D3A' }}>
-            {locale === 'ko'
-              ? `이 상품만 £${basePrice.toFixed(2)} → 추천 포함 £${potentialTotal.toFixed(2)} (+${pct}%)`
-              : `This item £${basePrice.toFixed(2)} → With picks £${potentialTotal.toFixed(2)} (+${pct}%)`}
-          </p>
-          {cartTotal > basePrice && (
-            <p className="text-[11px] mt-0.5" style={{ color: '#6B6B6B' }}>
-              {locale === 'ko'
-                ? `장바구니 현재 £${cartTotal.toFixed(2)}`
-                : `Cart total £${cartTotal.toFixed(2)}`}
-            </p>
-          )}
-        </div>
-      )}
-
       {/* Three rows */}
       {ROW_CONFIGS.map(({ logic, labelKey, subKey, color, bgColor }, idx) => {
         const row = rows[idx]

@@ -4,49 +4,97 @@
       "trigger_product": "삼겹살",
       "message_ko": "삼겹살엔 역시 쌈, 밥, 김치, 밑반찬이 빠질 수 없죠",
       "message_en": "Samgyeopsal needs its team: ssam, rice, kimchi, banchan",
-      "items": ["p25", "p04", "p13", "p15", "p14", "p23"]
+      "items": [
+        "p25",
+        "p04",
+        "p13",
+        "p15",
+        "p14",
+        "p23"
+      ]
     },
     "p09": {
       "trigger_product": "LA갈비",
       "message_ko": "주말 손님 초대에 딱. 갈비에 어울리는 한 상을 완성하세요",
       "message_en": "Built for weekend guests. Round out the galbi table",
-      "items": ["p04", "p13", "p14", "p15", "p22", "p25"]
+      "items": [
+        "p04",
+        "p13",
+        "p14",
+        "p15",
+        "p22",
+        "p25"
+      ]
     },
     "p10": {
       "trigger_product": "불고기",
       "message_ko": "불고기 한 끼, 이렇게 한 상이 완성됩니다",
       "message_en": "Turn bulgogi into a proper home dinner",
-      "items": ["p04", "p13", "p25", "p22", "p15", "p19"]
+      "items": [
+        "p04",
+        "p13",
+        "p25",
+        "p22",
+        "p15",
+        "p19"
+      ]
     },
     "p11": {
       "trigger_product": "닭다리살 (찜닭용)",
       "message_ko": "찜닭 만들기 좋은 재료들. 당면 대신 잡채 밀키트를 써도 좋아요",
       "message_en": "For jjimdak. Use the japchae kit as your glass noodles hack",
-      "items": ["p04", "p13", "p23", "p18", "p22", "p14"]
+      "items": [
+        "p04",
+        "p13",
+        "p23",
+        "p18",
+        "p22",
+        "p14"
+      ]
     },
     "p06": {
       "trigger_product": "떡볶이 밀키트",
       "message_ko": "떡볶이엔 튀김과 김밥이 정석. 분식집 완성",
       "message_en": "Tteokbokki's best friends: dumplings, kimbap. Full bunsik combo",
-      "items": ["p07", "p05", "p21"]
+      "items": [
+        "p07",
+        "p05",
+        "p21"
+      ]
     },
     "p16": {
       "trigger_product": "사골 설렁탕 밀키트",
       "message_ko": "설렁탕엔 깍두기와 밥. 따뜻한 국밥 한 그릇",
       "message_en": "Seolleongtang needs kkakdugi and rice. A proper warming bowl",
-      "items": ["p04", "p14", "p15", "p23"]
+      "items": [
+        "p04",
+        "p14",
+        "p15",
+        "p23"
+      ]
     },
     "p01": {
       "trigger_product": "신라면",
       "message_ko": "라면도 이렇게 먹으면 제대로. 김, 김치, 계란 대신 두부",
       "message_en": "Elevate the ramyun: gim, kimchi, tofu instead of egg",
-      "items": ["p04", "p13", "p21", "p23", "p24"]
+      "items": [
+        "p04",
+        "p13",
+        "p21",
+        "p23",
+        "p24"
+      ]
     }
   },
   "banchan_refill": {
     "message_ko": "밑반찬 떨어지면 한 끼가 초라해져요. 한식 주방에서 매주 담그는 기본 세트",
     "message_en": "When the banchan runs out, dinner feels small. Our weekly-made basics",
-    "items": ["p13", "p14", "p15", "p21"]
+    "items": [
+      "p13",
+      "p14",
+      "p15",
+      "p21"
+    ]
   },
   "recipe_reverse": {
     "kimchi_jjigae": {
@@ -54,35 +102,61 @@
       "dish_en": "Kimchi Stew",
       "message_ko": "오늘 저녁은 김치찌개. 필요한 재료를 한 번에",
       "message_en": "Kimchi stew tonight. Everything you need in one tap",
-      "items": ["p13", "p08", "p24", "p23", "p18"]
+      "items": [
+        "p13",
+        "p08",
+        "p24",
+        "p23",
+        "p18"
+      ]
     },
     "doenjang_jjigae": {
       "dish_ko": "된장찌개",
       "dish_en": "Doenjang Stew",
       "message_ko": "구수한 된장찌개 한 그릇. 기본 재료 체크",
       "message_en": "A bowl of savory doenjang stew. Pantry + fresh essentials",
-      "items": ["p19", "p24", "p23", "p18"]
+      "items": [
+        "p19",
+        "p24",
+        "p23",
+        "p18"
+      ]
     },
     "jjimdak": {
       "dish_ko": "찜닭",
       "dish_en": "Andong Jjimdak",
       "message_ko": "안동 찜닭, 당면까지 한 번에. 잡채 밀키트의 당면을 활용하세요",
       "message_en": "Andong-style jjimdak. Borrow the glass noodles from our japchae kit",
-      "items": ["p11", "p22", "p23", "p18"]
+      "items": [
+        "p11",
+        "p22",
+        "p23",
+        "p18"
+      ]
     },
     "japchae": {
       "dish_ko": "잡채",
       "dish_en": "Japchae",
       "message_ko": "잡채는 밀키트가 정답. 시간 없을 땐 특히",
       "message_en": "Japchae is a kit game. Especially when you're short on time",
-      "items": ["p22", "p23", "p20"]
+      "items": [
+        "p22",
+        "p23",
+        "p20"
+      ]
     },
     "bossam": {
       "dish_ko": "보쌈",
       "dish_en": "Bossam",
       "message_ko": "보쌈엔 삼겹살, 김치, 상추. 쌈장 대신 된장+참기름",
       "message_en": "Bossam: pork belly, kimchi, lettuce. Mix doenjang with sesame oil for dip",
-      "items": ["p08", "p13", "p25", "p19", "p20"]
+      "items": [
+        "p08",
+        "p13",
+        "p25",
+        "p19",
+        "p20"
+      ]
     }
   },
   "meal_plans": [
@@ -99,28 +173,47 @@
           "day_en": "Monday",
           "meal_ko": "신라면 + 김 + 김치",
           "meal_en": "Shin Ramyun with gim and kimchi",
-          "items": ["p01", "p21", "p13"]
+          "items": [
+            "p01",
+            "p21",
+            "p13"
+          ],
+          "image": "/meal-plans/plan-student-mon.jpg"
         },
         {
           "day_ko": "화요일",
           "day_en": "Tuesday",
           "meal_ko": "짜파게티 + 군만두",
           "meal_en": "Chapagetti with pan-fried dumplings",
-          "items": ["p02", "p07"]
+          "items": [
+            "p02",
+            "p07"
+          ],
+          "image": "/meal-plans/plan-student-tue.jpg"
         },
         {
           "day_ko": "수요일",
           "day_en": "Wednesday",
           "meal_ko": "떡볶이 + 김밥",
           "meal_en": "Tteokbokki + kimbap combo",
-          "items": ["p06", "p05"]
+          "items": [
+            "p06",
+            "p05"
+          ],
+          "image": "/meal-plans/plan-student-wed.jpg"
         },
         {
           "day_ko": "목요일",
           "day_en": "Thursday",
           "meal_ko": "삼겹살 + 상추 + 밥 + 김치 (주말 프리뷰)",
           "meal_en": "Samgyeopsal + ssam + rice + kimchi (weekend preview)",
-          "items": ["p08", "p25", "p04", "p13"]
+          "items": [
+            "p08",
+            "p25",
+            "p04",
+            "p13"
+          ],
+          "image": "/meal-plans/plan-student-thu.jpg"
         }
       ]
     },
@@ -137,28 +230,49 @@
           "day_en": "Monday",
           "meal_ko": "LA갈비 + 밑반찬 + 밥",
           "meal_en": "LA galbi with banchan and rice",
-          "items": ["p09", "p15", "p04"]
+          "items": [
+            "p09",
+            "p15",
+            "p04"
+          ],
+          "image": "/meal-plans/plan-couple-mon.jpg"
         },
         {
           "day_ko": "화요일",
           "day_en": "Tuesday",
           "meal_ko": "찜닭 + 밥 + 김치",
           "meal_en": "Andong jjimdak with rice and kimchi",
-          "items": ["p11", "p23", "p18", "p04", "p13"]
+          "items": [
+            "p11",
+            "p23",
+            "p18",
+            "p04",
+            "p13"
+          ],
+          "image": "/meal-plans/plan-couple-tue.jpg"
         },
         {
           "day_ko": "수요일",
           "day_en": "Wednesday",
           "meal_ko": "불고기 + 상추 + 밥",
           "meal_en": "Bulgogi ssam with lettuce and rice",
-          "items": ["p10", "p25", "p04"]
+          "items": [
+            "p10",
+            "p25",
+            "p04"
+          ],
+          "image": "/meal-plans/plan-couple-wed.jpg"
         },
         {
           "day_ko": "목요일",
           "day_en": "Thursday",
           "meal_ko": "김치찌개 + 밥 + 깍두기",
           "meal_en": "Kimchi stew with rice and kkakdugi",
-          "items": ["p24", "p14"]
+          "items": [
+            "p24",
+            "p14"
+          ],
+          "image": "/meal-plans/plan-couple-thu.jpg"
         }
       ]
     },
@@ -175,28 +289,44 @@
           "day_en": "Mains",
           "meal_ko": "LA갈비 + 수제 떡갈비",
           "meal_en": "LA galbi + handmade tteokgalbi",
-          "items": ["p09", "p17"]
+          "items": [
+            "p09",
+            "p17"
+          ],
+          "image": "/meal-plans/plan-guests-mains.jpg"
         },
         {
           "day_ko": "사이드",
           "day_en": "Sides",
           "meal_ko": "잡채 + 3종 밑반찬 세트",
           "meal_en": "Japchae + banchan set",
-          "items": ["p22", "p15"]
+          "items": [
+            "p22",
+            "p15"
+          ],
+          "image": "/meal-plans/plan-guests-sides.jpg"
         },
         {
           "day_ko": "국",
           "day_en": "Soup",
           "meal_ko": "사골 설렁탕",
           "meal_en": "Seolleongtang",
-          "items": ["p16"]
+          "items": [
+            "p16"
+          ],
+          "image": "/meal-plans/plan-guests-soup.jpg"
         },
         {
           "day_ko": "쌀 · 김치",
           "day_en": "Rice & Kimchi",
           "meal_ko": "밥 + 김치 + 깍두기",
           "meal_en": "Rice + kimchi + kkakdugi",
-          "items": ["p04", "p13", "p14"]
+          "items": [
+            "p04",
+            "p13",
+            "p14"
+          ],
+          "image": "/meal-plans/plan-guests-rice.jpg"
         }
       ]
     }
